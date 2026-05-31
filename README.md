@@ -2,7 +2,7 @@
 
 输入你的内存、CPU、显卡，工具按实测经验算出建议的同时多开数量与每个实例的参数（CPU 核、内存、帧率、渲染模式），让多开挂机更稳。
 
-**🌐 在线使用 / Live:** [简体](https://jonhendrigiga.github.io/android-emulator-tuning/) · [繁體](https://jonhendrigiga.github.io/android-emulator-tuning/zh-tw/) · [English](https://jonhendrigiga.github.io/android-emulator-tuning/en/) · [日本語](https://jonhendrigiga.github.io/android-emulator-tuning/ja/)
+**🌐 在线使用 / Live:** [简体](https://jonhendrigiga.github.io/android-emulator-tuning/) · [繁體](https://jonhendrigiga.github.io/android-emulator-tuning/zh-tw/) · [English](https://jonhendrigiga.github.io/android-emulator-tuning/en/) · [日本語](https://jonhendrigiga.github.io/android-emulator-tuning/ja/) · [Français](https://jonhendrigiga.github.io/android-emulator-tuning/fr/)
 
 ## 这个工具能做什么
 
